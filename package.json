@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.4",
-    "puppeteer": "^2.0.0",
+    "puppeteer": "^22.6.4",
     "query-string": "^6.10.1"
   }
 }
