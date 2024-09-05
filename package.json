@@ -12,8 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.4",
+    "nodemon": "^3.0.0",
     "puppeteer": "^2.0.0",
-    "query-string": "^6.10.1"
+    "query-string": "^7.1.3"
   }
 }
